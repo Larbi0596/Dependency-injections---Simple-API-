@@ -1,0 +1,6 @@
+@SimpleApiDI_HostAddress = http://localhost:5129
+
+GET {{SimpleApiDI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
