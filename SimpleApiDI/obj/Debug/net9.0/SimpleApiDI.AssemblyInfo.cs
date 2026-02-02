@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimpleApiDI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c0da6b5eb76565795317df39a74b39078593ff1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10e191e7bfb1a0787510532329b92fa28b869006")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimpleApiDI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimpleApiDI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
